@@ -56,3 +56,6 @@ const obj = {
   const y = iterationCopy(x);
   x.b.c = 2;
   console.log(y.b.c); // still "1"
+
+
+
